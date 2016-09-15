@@ -1,0 +1,6 @@
+https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+https://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs
+https://hueniverse.com/2011/06/29/the-style-of-non-blocking/
+http://hectorcorrea.com/blog/introduction-to-node-js/51
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+https://www.impressivewebs.com/callback-functions-javascript/
